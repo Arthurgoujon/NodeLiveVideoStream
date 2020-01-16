@@ -1,0 +1,17 @@
+{
+  "name": "videostreaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon start server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "opencv4nodejs": "^5.5.0",
+    "socket.io": "^2.3.0"
+  }
+}
